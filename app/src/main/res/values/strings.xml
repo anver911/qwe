@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ProjectAnver</string>
+    <string name="judul">Menghitung ongkos kirim ojek</string>
+    <string name="InputBerat">Masukan berat barang (dalam kg)</string>
+    <string name="InputJarak">Masukan Jarak pengiriman (dalam km)</string>
+    <string name="InputRating">Bagaimana pelayananya? (Berikan Rating 1-4)</string>
+    <string name="InputTip">Ingin memberikan tip kepada driver?</string>
+    <string name="JmlOngkir">Jumlah ongkos kirim</string>
+    <string name="JmlTip">Jumlah tip yang diberikan</string>
+    <string name="total">Jumlah uang yang harus dibayarkan (Rp)</string>
+    <string name="nilaiDefaultAngka">0</string>
+    <string name="buttonHitung">Hitung Ongkos Kirim</string>
+    <string name="buttonPindahHalamanKurir">Pindah Ke Halaman Kurir</string>
+    <string name="buttonPindahHalamanListFilm">Pindah Ke Halaman List Film</string>
+</resources>
